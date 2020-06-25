@@ -9,7 +9,7 @@ June 24 update: In the next few days I'll be reformatting this so that each proj
 
 # Frontend Ideas
 ## [Time Management App](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/time-management.md)
-## Animal to Human Years Calculator
+## [Animal to Human Years Calculator](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/animal-to-human.md)
 ## Slot Machine
 ## Recreating Fairytales
 ## Last Thing You Did Today
