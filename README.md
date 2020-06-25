@@ -2,7 +2,7 @@
 
 _The_ go-to repo for fun, cool and unique web developer projects. 
 
-Each project idea will link to its own page containing a project description, suggested languages/frameworks, and additional feature ideas. 
+June 24 update: In the next few days I'll be reformatting this so that each project idea will link to its own page containing a project description, suggested languages/frameworks, and additional feature ideas. 
 
 # Frontend Ideas
 ## Time Management App
