@@ -15,6 +15,6 @@ June 24 update: In the next few days I'll be reformatting this so that each proj
 
 # Full-Stack Ideas
 
-## A dating site exclusively for developers 
-<sub><sup>(submitted by [Black Engineer via YouTube](https://www.youtube.com/post/UgyJnwws8W-ONaB7ifF4AaABCQ))</sub></sup>
+## [A dating site exclusively for developers](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/dating-app.md)
+
 
