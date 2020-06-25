@@ -21,6 +21,6 @@ This can even one day be expanded to a full-stack app where users can keep track
 
 # Full-Stack Ideas
 
-## A dating app exclusively for software developers 
+## A dating site exclusively for developers 
 <sub><sup>(submitted by [Black Engineer via YouTube](https://www.youtube.com/post/UgyJnwws8W-ONaB7ifF4AaABCQ))</sub></sup>
 
