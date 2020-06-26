@@ -24,7 +24,7 @@ June 24 update: In the next few days I'll be reformatting this so that each proj
 # Full-Stack Ideas
 ## [A dating site exclusively for developers](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/dating-app.md)
 ## [Audio Player](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Audio-Player.md)
-## Casino
+## [Casino](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Casino.md)
 ## Landing Page Neighbor in Need
 ## Cat Bird App - Automated Cat Concierge
 ## In-Browser Video Clipper
