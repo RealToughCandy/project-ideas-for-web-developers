@@ -31,7 +31,7 @@ June 24 update: In the next few days I'll be reformatting this so that each proj
 ## [Micky D's Map Navigation Generator](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Micky-Ds-Map-Navigation-Generator.md)
 ## [Personalized Walking Map](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Personalized-Walking-Map.md)
 ## [Digitized Trail Map with GPS](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Digitized-Trail-Map-with-GPS.md)
-## Sushi Tracker
+## [Sushi Tracker](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Sushi-Tracker.md)
 ## Grocery Bingo Blackout
 ## Photo Item/Get Dimensions
 
