@@ -32,7 +32,7 @@ June 24 update: In the next few days I'll be reformatting this so that each proj
 ## [Personalized Walking Map](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Personalized-Walking-Map.md)
 ## [Digitized Trail Map with GPS](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Digitized-Trail-Map-with-GPS.md)
 ## [Sushi Tracker](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Sushi-Tracker.md)
-## Grocery Bingo Blackout
+## [Grocery Bingo Blackout](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Grocery-Bingo-Blackout.md)
 ## Photo Item/Get Dimensions
 
 
