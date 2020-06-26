@@ -28,7 +28,7 @@ June 24 update: In the next few days I'll be reformatting this so that each proj
 ## [Landing Page for Neighbor in Need](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Landing-Page-for-Neighbor-in-Need.md)
 ## [Cat Bird App - Automated Cat Concierge](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Cat-Bird-App-Automated-Cat-Concierge.md)
 ## [In-Browser Video Clipper](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/In-Browser-Video-Clipper.md)
-## Micky D's Map Navigation Generator
+## [Micky D's Map Navigation Generator](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Micky-Ds-Map-Navigation-Generator.md)
 ## Personalized Walking Map
 ## Digitize trail map w/GPS
 ## Sushi Tracker
