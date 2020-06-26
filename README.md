@@ -30,7 +30,7 @@ June 24 update: In the next few days I'll be reformatting this so that each proj
 ## [In-Browser Video Clipper](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/In-Browser-Video-Clipper.md)
 ## [Micky D's Map Navigation Generator](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Micky-Ds-Map-Navigation-Generator.md)
 ## [Personalized Walking Map](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Personalized-Walking-Map.md)
-## Digitize trail map w/GPS
+## Digitized Trail Map with GPS
 ## Sushi Tracker
 ## Grocery Bingo Blackout
 ## Photo Item/Get Dimensions
