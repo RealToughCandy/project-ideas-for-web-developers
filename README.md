@@ -25,7 +25,7 @@ June 24 update: In the next few days I'll be reformatting this so that each proj
 ## [A dating site exclusively for developers](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/dating-app.md)
 ## [Audio Player](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Audio-Player.md)
 ## [Casino](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Casino.md)
-## Landing Page Neighbor in Need
+## [Landing Page for Neighbor in Need](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Landing-Page-for-Neighbor-in-Need.md)
 ## Cat Bird App - Automated Cat Concierge
 ## In-Browser Video Clipper
 ## Micky D's Map Navigation Generator
