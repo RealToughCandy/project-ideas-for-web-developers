@@ -11,7 +11,7 @@ June 24 update: In the next few days I'll be reformatting this so that each proj
 ## [Time Management App](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/time-management.md)
 ## [Animal to Human Years Calculator](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/animal-to-human.md)
 ## [Slot Machine](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/slot-machine.md)
-## Recreating Fairytales
+## [Recreating Fairytales](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Recreating-Fairytales.md)
 ## Last Thing You Did Today
 ## Food Find
 ## Self-Portrait
