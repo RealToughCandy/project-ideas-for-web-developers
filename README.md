@@ -16,7 +16,7 @@ June 24 update: In the next few days I'll be reformatting this so that each proj
 ## [Food Find](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Food-Find.md)
 ## [Self-Portrait](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Self-Portrait.md)
 ## [PS5 Skin Customizer](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/PS5-Skin-Customizer.md)
-## Shoe Customizer
+## [Shoe Customizer](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Shoe-Customizer.md)
 
 # Backend Ideas
 
