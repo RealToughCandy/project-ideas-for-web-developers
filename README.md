@@ -8,7 +8,6 @@ June 24 update: In the next few days I'll be reformatting this so that each proj
 
 
 # Frontend Ideas
-## [Animal to Human Years Calculator](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/animal-to-human.md)
 ## [Slot Machine](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/slot-machine.md)
 ## [Recreating Fairytales](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Recreating-Fairytales.md)
 ## [Last Thing You Did Today](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Last-Thing-You-Did-Today.md)
@@ -17,6 +16,7 @@ June 24 update: In the next few days I'll be reformatting this so that each proj
 ## [PS5 Skin Customizer](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/PS5-Skin-Customizer.md)
 ## [Shoe Customizer](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Shoe-Customizer.md)
 ## [Time Management App](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/time-management.md)
+## [Animal to Human Years Calculator](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/animal-to-human.md)
 
 
 # Backend Ideas
