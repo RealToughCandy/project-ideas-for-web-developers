@@ -11,4 +11,4 @@ You could see:
 4. when they're boxed up
 5. when they're out for delivery
 
-And if you don't like sushi, create a food tracker app on for something else. 
+And if you don't like sushi, create a food tracker app for something else: Chinese food, sandwiches, Italian, or any other delicious delivery (or pick-up) option.
