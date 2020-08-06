@@ -1,8 +1,10 @@
 ## Self-Portrait
 
-Allow users to create a drag-and-drop self-portrait. 
+Allow users to create a drag-and-drop self-portrait using CSS. 
 
-Let them choose pre-loaded images based on:
+The user can compile these images to create a realistic or distorted self-portrait. Heck, it could even be animated!
+
+And don't forget these features:
 * face shape
 * skin tone
 * eye color and shape
@@ -14,6 +16,5 @@ Let them choose pre-loaded images based on:
 
 And any other unique characteristics you can think of.
 
-The user can compile these images to create a realistic or distorted self-portrait.
 
-Images can be actual photographs, cartoon, or even charicature-like in nature.
+Images can be actual photographs, cartoon, or even caricature-like in nature.
