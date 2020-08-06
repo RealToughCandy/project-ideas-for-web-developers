@@ -4,4 +4,4 @@ The PlayStation 5 is host to some of the coolest games in the world: Doom Eterna
 
 *But it looks boring.*
 
-Create an app where you can style different skins for your PS5. It could be a scene from your favorite game, logo of your favorite snack (holler to all my Mountain Dew Code Red and Flamin' Hot Cheetos fans), or even your favorite place IRL. 
+Create an app where the user can style different skins for their PS5. It could be scenes from your favorite game, favorite snack logos (holler to all my Mountain Dew Code Red and Flamin' Hot Cheetos fans), or even your favorite place IRL. Give the option to use stock photos, or let them upload their own.
