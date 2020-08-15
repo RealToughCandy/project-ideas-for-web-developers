@@ -13,7 +13,6 @@ August 5th update: Project descriptions are in the works!
 ## [Last Thing You Did Today](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Last-Thing-You-Did-Today.md)
 ## [Food Find](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Food-Find.md)
 ## [Self-Portrait](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Self-Portrait.md)
-## [PS5 Skin Customizer](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/PS5-Skin-Customizer.md)
 ## [Shoe Customizer](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Shoe-Customizer.md)
 ## [Time Management App](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/time-management.md)
 ## [Animal to Human Years Calculator](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/animal-to-human.md)
