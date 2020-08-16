@@ -18,5 +18,7 @@ Or make it a bit more user-friendly with a Tinder-style layout where:
 * swipe one direction = Let's meet
 * swipe another direction = Take your database and ergonomic wireless mouse and buzz off
 
+If you want to get super extra, create a "Reason" box for rejecting a person's attempt to contact you (i. e. "The MERN stack is a big turn off for me.").
+
 
 <sub><sup>(submitted by [Black Engineer via YouTube](https://www.youtube.com/post/UgyJnwws8W-ONaB7ifF4AaABCQ))</sub></sup>
