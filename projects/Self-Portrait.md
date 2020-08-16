@@ -18,3 +18,5 @@ And any other unique characteristics you can think of.
 
 
 Images can be actual photographs, cartoon, or even caricature-like in nature.
+
+Recreate them accurately, or go full-on Picasso.
