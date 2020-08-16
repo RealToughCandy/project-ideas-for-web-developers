@@ -20,6 +20,7 @@ August 5th update: Project descriptions are in the works!
 
 # Backend Ideas
 ## [Anagram Finder](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Anagram-Finder.md)
+## [Image Search on a Local File System]
 
 # Full-Stack Ideas
 ## [A Dating Site Exclusively for Developers](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/dating-app.md)
