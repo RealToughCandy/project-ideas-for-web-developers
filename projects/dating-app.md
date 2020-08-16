@@ -4,7 +4,9 @@ It's hard getting into the dating scene when we sit in front of computers all da
 
 So what if there was a dating site exclusively for developers?
 
-It could share similarities with OkCupid, PlentyOfFish, eHarmony, or Match. Users can input a series of developer-related romance questions:
+It could share similarities with OkCupid, PlentyOfFish, eHarmony, or Match. 
+
+Users can input a series of developer-related romance questions:
 * A/S/L
 * stack
 * tech interests
