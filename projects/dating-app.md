@@ -12,7 +12,7 @@ Users can input a series of developer-related romance questions:
 * tech interests
 * interests outside of tech
 
-From there they can indicate they "like" each other with a button, connect using a messaging app, or block them if they're not interested.
+From there they can indicate they "like" each other with a button, connect using a messaging app, or block users they're not interested in.
 
 Or make it a bit more user-friendly with a Tinder-style layout where:
 * swipe one direction = Let's meet
