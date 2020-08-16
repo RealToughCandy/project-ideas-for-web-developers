@@ -9,4 +9,4 @@ Whatever you choose, you can customize this audio player with your pick of:
 * layout - location of artwork, player buttons, main page navigation
 * button stylings - size of buttons, images on buttons, color, etc.
 
-You can get inspiration from Spotify, Bandcamp, ReverbNation and others.
+You can get styling inspiration from Spotify, Bandcamp, ReverbNation and others.
