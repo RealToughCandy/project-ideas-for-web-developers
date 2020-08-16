@@ -22,7 +22,7 @@ August 5th update: Project descriptions are in the works!
 
 
 # Full-Stack Ideas
-## [A dating site exclusively for developers](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/dating-app.md)
+## [A Dating Site Exclusively for Developers](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/dating-app.md)
 ## [Audio Player](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Audio-Player.md)
 ## [Casino](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Casino.md)
 ## [Landing Page for Neighbor in Need](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Landing-Page-for-Neighbor-in-Need.md)
