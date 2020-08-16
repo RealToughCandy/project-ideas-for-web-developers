@@ -9,3 +9,6 @@ You could literally travel across the country using nothing but directions to th
 And instead of long-winded directions using unfamiliar street names, the voice navigation can direct you to "turn right at the next McDonald's. In 30 miles, you'll see a McDonald's on your left. Then, turn left."
 
 We just need an app for it...
+
+
+You don't have use McDonald's. Use any major chain: Hy-Vee, Home Depot, Hobby Lobby, Wal-Mart, Target, or another of your choosing.
