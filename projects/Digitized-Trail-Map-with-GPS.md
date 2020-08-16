@@ -8,4 +8,13 @@ A digitized trail map with GPS could solve these problems. You'd be able to inte
 
 You could even get more creative and build in personal rest areas, times, or eating breaks.
 
+And if you want to get really serious, you can include things like:
+
+* altitude
+* difficulty level
+* animals indigenous to the area
+* current/future weather predictions in the area
+* historical facts
+
+And any other relevant points of interest.
 
