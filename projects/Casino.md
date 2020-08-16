@@ -16,4 +16,4 @@ This app has the potential to be as massive as you want it to be, especially if 
 
 There are other visual variables like point-of-view, overhead, player by player, etc.
 
-**Bonus:** Add the Slot Machine app from our frontend project ideas.
+**Bonus:** Add the *Slot Machine* app from our frontend project ideas.
