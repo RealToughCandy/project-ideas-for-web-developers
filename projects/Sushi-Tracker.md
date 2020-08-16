@@ -11,4 +11,6 @@ You could see:
 4. when they're boxed up
 5. when they're out for delivery
 
+For each stage you could have different music that plays to set the mood, or different pop-up facts about sushi. 
+
 And if you don't like sushi, create a food tracker app for something else: Chinese food, sandwiches, Italian, or any other delicious delivery (or pick-up) option.
