@@ -19,7 +19,7 @@ August 5th update: Project descriptions are in the works!
 
 
 # Backend Ideas
-## [Anagram Finder](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Anagram-Finder.md)
+## [Anagram Creator](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Anagram-Finder.md)
 ## [Image Search on a Local File System](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/image-search-on-local-file-system)
 
 # Full-Stack Ideas
