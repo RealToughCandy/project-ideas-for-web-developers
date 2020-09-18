@@ -1,6 +1,6 @@
 # project-ideas-for-web-developers
 
-_The_ go-to repo for fun, cool and unique web developer projects. 
+_The_ go-to repo for fun, cool, unique web developer projects. 
 
 August 5th update: Project descriptions are in the works! 
 
