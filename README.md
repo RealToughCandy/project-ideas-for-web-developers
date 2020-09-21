@@ -2,7 +2,7 @@
 
 _The_ go-to repo for fun, cool, unique web developer projects. 
 
-August 5th update: Project descriptions are in the works! 
+This project was made possible by RealToughCandy Github sponsors [Eddie Jaoude](https://github.com/eddiejaoude) and [Keith Ballinger](https://github.com/keithballinger). Thank you!
 
 ![phone app project with countdown timer](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/ProjectIdeasForWebDevelopers.jpg)
 
