@@ -1,6 +1,6 @@
 ## Sushi Tracker
 
-~~Some~~ Most of us are familiar with the Domino's Pizza Tracker app. Instead of staring at the clock wondering if they're going to be ringing your door bell in 5 minutes or an hour, you have the soft, pulsating glow of assurance showing you what stage of production your pizza's in. 
+~~Some~~ Most of us are familiar with the Domino's Pizza Tracker app. Instead of staring at the clock wondering if they're going to be ringing your door bell in 5 minutes or an hour, you have the soft, pulsating glow of assurance showing you the status of your pizza.
 
 But this would also be great for sushi!
 
