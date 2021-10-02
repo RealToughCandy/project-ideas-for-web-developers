@@ -1,6 +1,6 @@
 # project-ideas-for-web-developers
 
-_The_ go-to repo for fun, cool, unique web developer projects. 
+_The_ go-to repo for fun, cool and unique web developer projects. 
 
 This project was made possible by our Github sponsors [Eddie Jaoude](https://github.com/eddiejaoude) and [Keith Ballinger](https://github.com/keithballinger). Thank you for your generous support!
 
