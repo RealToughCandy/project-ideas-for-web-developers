@@ -9,3 +9,5 @@ Think of the last thing you did or saw today:
 * the dogs laying on the couch watching TV
 
 Now recreate it using only HTML and CSS.
+
+For a bigger challenge: use vanilla JavaScript and/or a JS framework.
