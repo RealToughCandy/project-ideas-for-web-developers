@@ -9,5 +9,3 @@ Think of the last thing you did or saw today:
 * the dogs laying on the couch watching TV
 
 Now recreate it using only HTML and CSS.
-
-And if that's too boring, go find something interesting to recreate and get to work!
