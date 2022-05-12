@@ -4,7 +4,7 @@ _The_ go-to repo for fun, cool and unique web developer projects.
 
 This project was made possible by our Github sponsors [Eddie Jaoude](https://github.com/eddiejaoude) and [Keith Ballinger](https://github.com/keithballinger). Thank you for your support!
 
-Did you make something cool with the help of this list? We'd love to see! Hit us up on (Discord)[https://discord.gg/68yMWzV].
+Did you make something cool with the help of this list? We'd love to see! Hit us up on [Discord](https://discord.gg/68yMWzV).
 
 ![phone app project with countdown timer](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/ProjectIdeasForWebDevelopers.jpg)
 
