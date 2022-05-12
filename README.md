@@ -30,6 +30,7 @@ This project was made possible by our Github sponsors [Eddie Jaoude](https://git
 ## [Cat Bird App - Automated Cat Concierge](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Cat-Bird-App-Automated-Cat-Concierge.md)
 ## [In-Browser Video Clipper](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/In-Browser-Video-Clipper.md)
 ## [Live Polling App](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Live-Polling-App.md)
+## [Market Highlights](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/market-highlights.md)
 ## [Micky D's Map Navigation Generator](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Micky-Ds-Map-Navigation-Generator.md)
 ## [Personalized Walking Map](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Personalized-Walking-Map.md)
 ## [Digitized Trail Map with GPS](https://github.com/RealToughCandy/project-ideas-for-web-developers/blob/master/projects/Digitized-Trail-Map-with-GPS.md)
